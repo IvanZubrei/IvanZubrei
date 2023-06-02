@@ -1,4 +1,4 @@
-### Hi there 👋
+### День добрый! Меня зовут Иван. Я front-end разработчик
 
 <!--
 **IvanZubrei/IvanZubrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
